@@ -4,7 +4,7 @@ CREATE TABLE clase(
 	foroMin TINYINT UNSIGNED NOT NULL,
 	foroMax TINYINT UNSIGNED,
 	id_sedeCiudad VARCHAR(15) NOT NULL,
-	id_sedeDireccion VARCHAR(15) NOT NULL,
+	id_sedeDireccion VARCHAR(50) NOT NULL,
 	FOREIGN KEY(id_sedeCiudad, id_sedeDireccion) REFERENCES sede(ciudad, direccion)
-	ON DELETE CASCADE ON UPDATE CASCASDE
+	ON DELETE CASCADE ON UPDATE CASCADE
 )ENGINE=InnoDB;
