@@ -1,7 +1,7 @@
 En desarrollo...
 
 
-El repositorio es un ejercicio donde se pretente poner en practica varios conocimientos relacionados con las bases de datos y el trabajao con hojas de cálculo en Googlesheets. Ademas de trabajar con el lenguaje R para el análisis de los datos.
+El repositorio es un ejercicio donde se pretente poner en práctica varios conocimientos relacionados con las bases de datos y el trabajao con hojas de cálculo en Googlesheets. Además de trabajar con el lenguaje R para el análisis de los datos.
 
 EL REPOSITORIO TIENE LA SIGUIENTE ESTRUCTURA:
 * Archivo: Problema
