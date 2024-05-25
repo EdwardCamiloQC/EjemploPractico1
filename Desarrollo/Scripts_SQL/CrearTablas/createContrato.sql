@@ -1,0 +1,7 @@
+CREATE TABLE contrato(
+	id_contrato TINYINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	tipo VARCHAR(15) NOT NULL,
+	sueldo DECIMAL(12, 2) NOT NULL,
+	fechaInicio DATE NOT NULL,
+	fechaCulminacion DATE
+)ENGINE=InnoDB;
