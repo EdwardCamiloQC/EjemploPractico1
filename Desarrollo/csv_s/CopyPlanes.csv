@@ -1,0 +1,9 @@
+Tipo,Precio,Vigencia (mes),Descuento
+Bronze,60000,1,0
+Silver,90000,1,0
+Gold,120000,1,0
+Platinum,140000,1,0
+Diamond,160000,1,0
+Premium-Gold,216000,2,0.1
+Premium-Platinum,252000,2,0.1
+Premium-Diamond,432000,3,0.1
